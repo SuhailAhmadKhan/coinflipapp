@@ -1,16 +1,5 @@
-# coinflipapp
+apk file too large, google drive link : https://drive.google.com/file/d/127rvyrYA3vqaPIMaUFeaqcdlE2_QKO4k/view?usp=sharing
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Screenshots:
+![new](https://user-images.githubusercontent.com/97402494/152089289-29700c2b-ce1e-44a3-9375-4c1037749fff.jpg)
+![old](https://user-images.githubusercontent.com/97402494/152089339-1fabd666-075a-45a1-b1e6-49fa9d2debf2.jpg)
